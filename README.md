@@ -1,4 +1,4 @@
-# coucher_to_code
+# couche_to_coder
 
 Bright Network's coding boot camp - Couch to coder using Python
 
